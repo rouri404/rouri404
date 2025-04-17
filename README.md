@@ -1,4 +1,6 @@
-Estudante de Engenharia de Software pela Faculdade de Informática e Administração Paulista (FIAP)
+# Eu sou Gabriel Couto! 🦑
+
+Tô estudando **Engenharia de Software** na **FIAP**, mas, entre nós, passo mais tempo programando, ouvindo Vocaloid e fazendo meme do que assistindo aula. Sou o cara que tenta enfiar a Hatsune Miku em todo projeto (e às vezes consigo)! 😜
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rouri404&layout=compact)](https://github.com/rouri404)
 <br> <br>
