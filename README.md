@@ -6,8 +6,6 @@ Me chamo Gabriel Couto, atualmente sou estudante de Engenharia de Software na FI
 [![thisisaceritifiedhoodclassic](./images/mshtwh.gif)](https://github.com/rouri404)
 <br>
 [![smolmikuuu](./images/smolmiku.gif)](#)
-[![mikuBlinker](./images/mikufan_blinkie.gif)](#)
-[![smolmikuuu](./images/smolmiku.gif)](#)
 [![cotoBlinker](./images/cotooooo.gif)](#)
 [![smolmikuuu](./images/smolmiku.gif)](#)
 <br>
