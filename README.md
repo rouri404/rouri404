@@ -1,4 +1,4 @@
-oi eu so o gabriel couto e estudo egenharia de software
+Me chamo Gabriel Couto, atualmente sou estudante de Engenharia de Software na FIAP
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rouri404&layout=compact&theme=radical)](https://github.com/rouri404)
 <br> <br>
@@ -11,7 +11,3 @@ oi eu so o gabriel couto e estudo egenharia de software
 [![cotoBlinker](./images/cotooooo.gif)](#)
 [![smolmikuuu](./images/smolmiku.gif)](#)
 <br>
-[![bigmiku](./images/hatsune-miku.gif)](#)
-
-
-<!-- thanks to https://blinkies.cafe for keeping up their site -->
