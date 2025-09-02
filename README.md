@@ -1,10 +1,27 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=959595&width=435&lines=Ol%C3%A1%2C+sou+Gabriel+Couto!+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Ci%C3%AAncia+de+Dados+%26+Matem%C3%A1tica" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=959595&width=435&lines=Ol%C3%A1%2C+sou+o+Gabriel+Couto!+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Ci%C3%AAncia+de+Dados+%26+Matem%C3%A1tica" alt="Typing SVG" /></a>
 </p>
 
 ### 🚀 Estudante de Engenharia de Software | Python | Análise de Dados & IoT
 
-Olá! Me chamo Gabriel e sou estudante de Engenharia de Software na FIAP, apaixonado por usar a tecnologia para resolver problemas reais e criar soluções de impacto. Meu foco principal é o desenvolvimento com Python, análise de dados e projetos de IoT. Estou sempre buscando aprender e aplicar novas tecnologias para construir projetos eficientes e escaláveis.
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tbody>
+    <tr>
+      <td width="70%" valign="top" style="border: none; padding-right: 30px;">
+        <h3>Olá, sou o Gabriel 👋</h3>
+        <p>
+          Sou estudante de Engenharia de Software na FIAP, apaixonado por usar a tecnologia para resolver problemas reais e criar soluções de impacto.
+        </p>
+        <p>
+          Meu foco principal é o desenvolvimento com Python, análise de dados e projetos de IoT. Estou sempre buscando aprender e aplicar novas tecnologias para construir projetos eficientes e escaláveis.
+        </p>
+      </td>
+      <td width="30%" valign="top" style="border: none;">
+        <img src="images/tux.gif" alt="Imagem de um programador" width="100%">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
