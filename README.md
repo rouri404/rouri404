@@ -92,7 +92,6 @@ A seguir, alguns projetos que demonstram minhas habilidades na prática.
 * **LinkedIn**: [linkedin.com/in/gabricouto](https://linkedin.com/in/gabricouto)
 * **GitHub**: [github.com/rouri404](https://github.com/rouri404)
 * **E-mail**: [gabriel.couto2704@gmail.com](mailto:gabriel.couto2704@gmail.com)
-* 📄 **Confira meu currículo completo:** [Acesse aqui!](https://github.com/rouri404/rouri404/blob/main/curriculo.pdf)
 
 ---
 
