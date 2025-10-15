@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=435&lines=Ol%C3%A1%2C+sou+o+Gabriel+Couto!+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Ci%C3%AAncia+de+Dados+%26+Matem%C3%A1tica" alt="Typing SVG" />
-  
+  <br>
   <img src="https://img.shields.io/badge/FIAP%20Student-FF6B6B?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="FIAP Student" />
   <img src="https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer" />
   <img src="https://img.shields.io/badge/Data%20Analyst-FF6B35?style=for-the-badge&logo=chart-bar&logoColor=white" alt="Data Analyst" />
