@@ -5,9 +5,6 @@
   <img src="https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer" />
   <img src="https://img.shields.io/badge/Data%20Analyst-FF6B35?style=for-the-badge&logo=chart-bar&logoColor=white" alt="Data Analyst" />
   <img src="https://img.shields.io/badge/IoT%20Enthusiast-00D4FF?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="IoT Enthusiast" />
-  
-  <img src="https://komarev.com/ghpvc/?username=rouri404&color=00D4FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rouri404?label=Followers&style=for-the-badge&color=00D4FF" alt="GitHub Followers" />
 </div>
 
 <table style="width:100%; border-collapse: collapse; border: none;">
