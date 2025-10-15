@@ -140,8 +140,6 @@ A seguir, alguns projetos que demonstram minhas habilidades na prática.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rouri404&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" width="350"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rouri404&theme=github_dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakNum=00D4FF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=959595" alt="GitHub Streak" width="450"/>
-
 <img src="https://img.shields.io/badge/Always%20Learning-FF6B6B?style=for-the-badge&logo=book&logoColor=white" alt="Always Learning" />
 <img src="https://img.shields.io/badge/Problem%20Solver-00D4FF?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Problem Solver" />
 <img src="https://img.shields.io/badge/Innovation%20Driven-FFD700?style=for-the-badge&logo=star&logoColor=black" alt="Innovation Driven" />
