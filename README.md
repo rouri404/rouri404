@@ -12,7 +12,7 @@ Acredito no poder da tecnologia para criar impactos positivos e estou sempre bus
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,html,css,nodejs,graphql,django,docker,redhat,kubernetes,azure,git,linux,arch,postgresql,aws,grafana,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,html,css,nodejs,graphql,django,flask,docker,redhat,kubernetes,azure,git,linux,arch,postgresql,aws,grafana,kafka)](https://skillicons.dev)
 
 </div>
 
